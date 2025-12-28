@@ -66,5 +66,8 @@ Add code here
 ## Output Example
 <img width="306" height="80" alt="image" src="https://github.com/user-attachments/assets/6ae08d07-de37-4f4f-9735-8f5237e2ebbb" />
 
+ 
+## Result
+Thus , the program has been executed succesfully.
 
 
