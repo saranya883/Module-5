@@ -75,4 +75,7 @@ Add code here
 ## Sample Output
 <img width="458" height="122" alt="image" src="https://github.com/user-attachments/assets/39f63985-c20b-49cf-a71e-1769f618b59d" />
 
+ 
+## Result
+Thus , the program has been executed succesfully.
 
